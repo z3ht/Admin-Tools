@@ -1,0 +1,10 @@
+# Admin Tools
+# Designed By: Zinno
+
+Filter:
+  Severe:
+    - banana
+  Mild:
+    - orange
+  Maximum Severe Infractions: -1
+  Maximum Spam Infractions: -1

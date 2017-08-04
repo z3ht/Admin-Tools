@@ -1,0 +1,69 @@
+main: me.zinno.admin.Main
+version: 1.0.0
+name: AdminTools
+author: Zinno
+
+commands:
+  admin:
+    description: Send an admin message
+    usage: /admin
+  mod:
+    description: Send a mod message
+    usage: /mod
+  warn:
+    description: Warn a player
+    usage: /warn
+  gban:
+    description: Vocally ban a player
+    usage: /gban
+  sban:
+    description: Silently ban a player
+    usage: /sban
+  gkick:
+    description: Vocally kick a player
+    usage: /gkick
+  skick:
+    description: Silently kick a player
+    usage: /skick
+  report:
+    description: Report a player
+    usage: /report
+  rblock:
+    description: Block a player from sending reports
+    usage: /rblock
+  rpardon:
+    description: Pardon a player from sending reports
+    usage: /rpardon
+  ractive:
+    description: Check all active reports
+    usage: /ractive
+  rdelete:
+    description: Delete an active report
+    usage: /rdelete
+  rupdate:
+    description: Updates active reports
+    usage: /rupdate
+  strip:
+    description: Check for auto armor
+    usage: /strip
+  vanish:
+    description: Become invisible
+    usage: /vanish
+  tp:
+    description: Teleport to a player
+    usage: /tp
+  tphere:
+    description: Teleport a player to you
+    usage: /tphere
+  achat:
+    description: Send a message in admin chat
+    usage: /achat
+  unban:
+    description: Unban a player
+    usage: /unban
+  evaluate:
+    description: Evaluate a player
+    usage: /evaluate
+  evallist:
+    description: Get specific details from a player
+    usage: /evallist
